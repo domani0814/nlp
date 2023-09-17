@@ -1,1 +1,2 @@
-#this is test git
+print("hello")
+print(4+1)
